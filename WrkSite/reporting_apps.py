@@ -30,7 +30,7 @@ class database_connections:
             self._host = "10.60.101.64"
             self._ssh_port = 22
             self._username = 'amcdowald'
-            self._password = '2Chron48'  # self.get_password()
+            self._password = # self.get_password()
             self._local_bind_address = '0.0.0.0'
             self._local_mysql_port = 12345
             self._remote_bind_address = "127.0.0.1"
